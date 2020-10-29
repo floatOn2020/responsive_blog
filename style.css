@@ -272,7 +272,7 @@ main {
   grid-gap: 4em;
 }
 #content * {
-  transition: all 1s;
+  transition: all 700ms;
 }
 
 @media (max-width: 1200px) {
@@ -376,8 +376,6 @@ article {
 }
 
 
-
-
 /* PREVIEW BLOG DIVS */
 .recent-container {
   margin-top: 20px;
@@ -399,6 +397,11 @@ article {
   text-align: left;
 }
 
+@media (max-width: 992px) {
+  .side-section-header {
+    text-align: left;
+  }
+}
 
 /* FOOTER */
 #foot {
