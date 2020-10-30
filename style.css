@@ -360,12 +360,6 @@ article {
   width: 100%;
 }
 
-@media (max-width: 576px) {
-  .blog-text {
-    width: 100%;
-  }
-}
-
 .blog__text h1 {
   margin-bottom: 3px;
 }
