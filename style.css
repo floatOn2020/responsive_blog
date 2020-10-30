@@ -130,10 +130,10 @@ nav {
 }
 
 #menu, #mobile-menu {
-  right: 1em;
+  right: 1.5rem;
 }
 #mobile-login {
-  right: 2.5em;
+  right: 3.5rem;
 }
 
 .nav-link {
@@ -156,7 +156,7 @@ nav {
     display: block;
   }
   #search {
-    left: 1em;
+    left: 1.5rem;
   }
 }
 
@@ -219,8 +219,8 @@ nav {
 
 @media (max-width: 768px) {
   #hero-photo {
-    height: 10em;
-    width: 10em;
+    height: 10rem;
+    width: 10rem;
   }
   #hero {
     height: 35vw;
