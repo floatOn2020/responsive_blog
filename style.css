@@ -265,14 +265,14 @@ main {
 }
 
 #content {
-  display: grid;
   position: relative;
   top: 11rem;
+  display: grid;
   grid-template-columns: 3fr 1fr;
   grid-gap: 4em;
 }
 #content * {
-  transition: all 700ms;
+  transition: all 400ms;
 }
 
 @media (max-width: 1200px) {
